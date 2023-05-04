@@ -61,14 +61,13 @@ function add(){
     let text =  document.getElementById("texto").value;
     let list = document.getElementById("valores").innerHTML;
     list += `<li>${text}</li>`;
-    text += text;
     document.getElementById("valores").innerHTML = list;
     document.getElementById("texto").value = null;
-    console.log(text);
+    console.log(document.getElementById("texto").value);
+    
 };
 
-function limpar(){
-    let list = document.getElementById("valores").innerHTML;
+function limpar(list){
     list = null;
     document.getElementById("valores").innerHTML = list;
 };
