@@ -1,5 +1,5 @@
 const valores = document.getElementById('valores')
-const limparLista = document.getElementById('limpar')
+const limparLista = document.getElementById('btn-limpar')
 const bubbleSort = document.getElementById('bubble_sort')
 
 let itens = [] 
@@ -22,6 +22,12 @@ function adicionandoElementoNaTela(itens){
         `
     })
 }
+
+limparLista.addEventListener('click', (evento) =>{
+    evento.preventDefault()
+    itens = []
+    adicionandoElementoNaTela(itens)
+})
 
 
 
