@@ -1,0 +1,20 @@
+[
+    {
+        "titulo": "Macarrão Verde",
+        "imagem": "./imagens/receita-1.jpg",
+        "ingredientes": "[1 maço de rúcula, 1/2 xícara(chá) salsão, Azeite de Oliva a gosto, 1 pacote de macarrão, Sal a gosto, 1/2 cebola]",
+        "preparo": "Coloque o macarrão para cozinhar com o sal e azeite. Pique a rúcula, cebola, salsão e reserve. Após cozinhar o macarrão adicione os ingredientes reservados."
+    },
+    {
+        "titulo": "Macaron",
+        "imagem": "./imagens/receita-2.jpg",
+        "ingredientes": "[1/2 xícara (chá) de clara, 3/4 de xícara (chá) de açúcar refinado, Gotas de corante, 1 xícara (chá) de farinha de castanha de caju, 1 xícara (chá) de açúcar]",
+        "preparo": "Misture os ingredientes e bata até obter uma massa omogênea, depois adicione corante da sua preferência e leve ao forno á 100°C por 10min."
+    },
+    {
+        "titulo": "Pirulito de chocolate",
+        "imagem": "./imagens/receita-3.jpg",
+        "ingredientes": "[2 tabletes de chocolate ao leite (200g), 2 colheres de sopa de manteiga, Palitos para pirulito ou para sorvete, Forma para pirulito, Granulado]",
+        "preparo": "Pique o chocolate em pedaços, derreta em banho-maria, coloque o chocolate nas formas junto com os palitos e leve á geladeira por 45min. Sirva em seguida."
+    }
+]
