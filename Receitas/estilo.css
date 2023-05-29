@@ -1,0 +1,19 @@
+
+/* PÀGINA DE RECEITAS */
+
+.altura-cards{
+    padding: 7% 0% 0% 0%;
+}
+
+.card-largura{
+    max-width: 32rem;
+    max-height: 40rem;
+}
+
+.card-posicao-imagem{
+    object-fit: cover;
+    height: 200px;
+}
+
+
+
